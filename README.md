@@ -18,7 +18,7 @@ I'm a Data Scientist/ Analyst from Palm Harbor, Florida. 🌴
 
 **Portfolio**
 
-- :heart: NHANES Religious Attendance and CVD(https://github.com/ethandbard/Religious_Attendance_CVD)
+- :heart: [NHANES Religious Attendance and CVD](https://github.com/ethandbard/Religious_Attendance_CVD)
 - :pill: [NHANES Hypertension EDA](https://github.com/ethandbard/NHANES-Hypertension-EDA)
 - :runner: [Boston Marathon Principal Component Analysis and Outlier Detecting with Clustering](https://github.com/ethandbard/BostonMarathonAnalysis2017)
 - :gear: [Shiny Root Finding](https://github.com/ethandbard/ShinyRootFinding)
