@@ -1,14 +1,17 @@
 ### Hi there :wave:
 
-I'm a Data Science/ Data Analyst from Palm Harbor, Florida.
+I'm a Data Scientist/ Analyst from Palm Harbor, Florida.
+
+
 
 **Now**
 
-- :mortar_board: Institutional Research Analyst at Florida Polytechnic University in Lakeland, Florida. 
+- 🏢 Institutional Research Analyst at Florida Polytechnic University in Lakeland, Florida. 
 - :books: Instructor for COP 2073 Intro to Data Science, Florida Polytechnic Spring 2023.
 
 **Bio**
 
+- :mortar_board: Master's Degree in Computer Science - Data Analytics from Florida Polytechnic University
 - :computer: I use daily: `.r` `.py` `.sql` `excel` `PowerBI` `tableau`
 - :bar_chart: Interested in data analysis and visualization, dashboards, and data driven apps.
 
