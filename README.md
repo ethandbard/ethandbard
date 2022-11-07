@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I'm a Data Scientist/ Analyst from Palm Harbor, Florida.
+I'm a Data Scientist/ Analyst from Palm Harbor, Florida. 🌴
 
 
 
