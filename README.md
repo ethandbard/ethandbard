@@ -7,7 +7,6 @@ I'm a Data Scientist/ Analyst from Palm Harbor, Florida. 🌴
 **Now**
 
 - 🏢 Institutional Research Analyst at Florida Polytechnic University in Lakeland, Florida. 
-- :books: Instructor for COP 2073 Intro to Data Science, Florida Polytechnic Spring 2023.
 
 **Bio**
 
