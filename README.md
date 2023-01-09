@@ -19,7 +19,7 @@ I'm a Data Scientist/ Analyst from Palm Harbor, Florida. 🌴
 
 **Portfolio**
 
-- :heart: *In progress* [NHANES Religious Attendance and CVD](https://github.com/ethandbard/Religious_Attendance_CVD)
+- :heart: [NHANES Religious Attendance and CVD](https://github.com/ethandbard/Religious_Attendance_CVD) - *in progress* 
 - :earth_americas: [Covid-19 Variants Analysis and Forecast](https://github.com/ethandbard/COVID19)
 - :pill: [NHANES Hypertension EDA](https://github.com/ethandbard/NHANES-Hypertension-EDA)
 - :dog: [Chewy.com Web Scrape](https://github.com/ethandbard/chewy)
