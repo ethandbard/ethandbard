@@ -7,7 +7,7 @@ I'm a Data Scientist/ Analyst from Palm Harbor, Florida. 🌴
 **Now**
 
 - 👨‍💻 Institutional Research Analyst at Florida Polytechnic University in Lakeland, Florida. 
-- 👨‍🏫 Adjunct Instructor - Introduction to Data Science at Florida Poly code
+- 👨‍🏫 Adjunct Instructor - Introduction to Data Science at Florida Poly
 
 **Bio**
 
