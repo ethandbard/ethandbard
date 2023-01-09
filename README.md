@@ -22,7 +22,7 @@ I'm a Data Scientist/ Analyst from Palm Harbor, Florida. 🌴
 - :heart: [NHANES Religious Attendance and CVD](https://github.com/ethandbard/Religious_Attendance_CVD) - *in progress* 
 - :earth_americas: [Covid-19 Variants Analysis and Forecast](https://github.com/ethandbard/COVID19)
 - :pill: [NHANES Hypertension EDA](https://github.com/ethandbard/NHANES-Hypertension-EDA)
-- :dog: [Chewy.com Web Scrape](https://github.com/ethandbard/chewy)
+- :dog: [Chewy.com Web Scrape](https://github.com/ethandbard/chewy) - *in progress*
 - :runner: [Boston Marathon Principal Component Analysis and Outlier Detecting with Clustering](https://github.com/ethandbard/BostonMarathonAnalysis2017)
 - :gear: [Shiny Root Finding](https://github.com/ethandbard/ShinyRootFinding)
 - :fries: [McDonalds Menu Data Principal Component Analysis and Clustering](https://github.com/ethandbard/McDonalds_Analysis)
